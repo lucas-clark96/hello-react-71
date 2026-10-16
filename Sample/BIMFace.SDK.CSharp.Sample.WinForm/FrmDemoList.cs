@@ -60,3 +60,5 @@ namespace BIMFace.SDK.CSharp.Sample.WinForm
        
     }
 }
+
+// 38a31e

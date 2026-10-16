@@ -64,3 +64,4 @@ namespace BIMFace.SDK.CSharp.Common.Http
         public const string CONNECT = "CONNECT";
     }
 }
+// 1de9e1
